@@ -13,6 +13,10 @@ a {
     left: 50%;
 }
 
+.guias {
+    image-rendering: inherit;
+}
+
 p {
     position: absolute;
     left: 48.5%;

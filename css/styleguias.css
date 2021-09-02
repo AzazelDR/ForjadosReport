@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
 body {
     font-family: 'Signika Negative';
-    background-color: mediumaquamarine;
+    background-color: rgb(205, 126, 102);
 }
 
 button {
@@ -17,6 +17,21 @@ button {
     text-decoration: none;
     cursor: pointer;
     width: 275px;
+}
+
+.div1 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+a:link,
+a:visited {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .button1 {

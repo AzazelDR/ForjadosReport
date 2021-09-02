@@ -1,8 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
 body {
     background-color: lightblue;
+    font-family: 'Signika Negative';
+}
+
+.div1 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+a:link,
+a:visited {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 
 iframe {
     position: absolute;
-    border: 1px solid #ccc;
+    width: 99%;
+    height: 87%;
 }

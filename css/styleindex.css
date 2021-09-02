@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
 body {
     font-family: 'Signika Negative';
-    background-color: mediumaquamarine;
+    background-image: url("../img/ForjadosEspacio.png");
+    background-size: cover;
+    color: white;
 }
 
 img {
@@ -25,7 +27,7 @@ button {
 }
 
 button:hover {
-    opacity: 1
+    opacity: 5
 }
 
 .div1 {

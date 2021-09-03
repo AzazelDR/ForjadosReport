@@ -10,7 +10,7 @@ body {
     color: white;
 }
 
-embed {
+iframe {
     position: absolute;
     margin-left: 25%;
 }

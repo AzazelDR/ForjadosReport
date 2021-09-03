@@ -1,7 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
 body {
     font-family: 'Signika Negative';
-    background-image: url("ForjadosEspacio.png");
+    background-image: url("../img/ForjadosEspacio.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #6699;
+    color: white;
+}
+
+h1 {
+    color: ivory;
 }
 
 button {
@@ -19,6 +29,14 @@ button {
     width: 275px;
 }
 
+.container {
+    font-family: 'Signika Negative';
+}
+
+.page-header {
+    color: white;
+}
+
 .div1 {
     margin: auto;
     width: 50%;
@@ -28,7 +46,7 @@ button {
 
 a:link,
 a:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     text-decoration: none;
     display: inline-block;

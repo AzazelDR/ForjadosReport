@@ -1,7 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
 body {
-    background-color: lightblue;
     font-family: 'Signika Negative';
+    background-image: url("../img/01MODV21071.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #6699;
+    color: white;
+}
+
+h1 {
+    color: ivory;
 }
 
 .div1 {
@@ -12,7 +22,7 @@ body {
 
 a:link,
 a:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     text-decoration: none;
     display: inline-block;

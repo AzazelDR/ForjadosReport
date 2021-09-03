@@ -3,6 +3,18 @@ body {
     font-family: 'Signika Negative';
     background-image: url("../img/ForjadosEspacio.png");
     background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #6699;
+    color: white;
+}
+
+h1 {
+    color: ivory;
+}
+
+.page-header {
     color: white;
 }
 
@@ -26,7 +38,8 @@ button:hover {
     opacity: 5
 }
 
-.div1 {
+.container {
+    font-family: 'Signika Negative';
     margin: auto;
     width: 50%;
     text-align: center;

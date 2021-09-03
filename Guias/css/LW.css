@@ -10,12 +10,7 @@ body {
     color: white;
 }
 
-iframe {
+embed {
     position: absolute;
-    width: 50%;
-}
-
-.contain {
-    text-align: center;
-    padding-right: 50%;
+    margin-left: 25%;
 }

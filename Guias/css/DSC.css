@@ -9,3 +9,8 @@ body {
     background-color: #6699;
     color: white;
 }
+
+embed {
+    position: absolute;
+    margin-left: 25%;
+}

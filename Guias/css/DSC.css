@@ -13,5 +13,8 @@ body {
 iframe {
     position: absolute;
     width: 50%;
-    align-items: center;
+}
+
+.contain {
+    text-align: center;
 }

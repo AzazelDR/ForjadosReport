@@ -13,4 +13,5 @@ body {
 iframe {
     position: absolute;
     width: 50%;
+    align: center;
 }

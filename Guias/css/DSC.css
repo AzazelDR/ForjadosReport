@@ -9,13 +9,3 @@ body {
     background-color: #6699;
     color: white;
 }
-
-iframe {
-    position: absolute;
-    width: 100%;
-}
-
-.contain {
-    text-align: center;
-    padding-right: 50%;
-}
